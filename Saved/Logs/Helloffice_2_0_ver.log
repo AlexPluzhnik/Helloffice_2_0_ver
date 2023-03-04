@@ -1001,3 +1001,68 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.03.04-19.18.44:034][716]LogSavePackage: Moving '../../../../../../UE4/Helloffice 2.0 ver/Helloffice_2_0_ver/Saved/BuyEnergyWBE26086634116FF6CB2B0B8856D541F8D.tmp' to '../../../../../../UE4/Helloffice 2.0 ver/Helloffice_2_0_ver/Content/UI/Menus/BuyEnergyWB.uasset'
 [2023.03.04-19.18.44:045][716]AssetCheck: New page: Asset Save: BuyEnergyWB
 [2023.03.04-19.18.44:045][716]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/Menus/BuyEnergyWB.BuyEnergyWB
+[2023.03.04-19.20.28:793][496]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2023.03.04-19.20.28:793][496]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2023.03.04-19.20.31:801][803]LogUObjectHash: Compacting FUObjectHashTables data took   2.95ms
+[2023.03.04-19.22.08:881][ 74]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SGraphPanel [SGraphEditorImpl.cpp(668)].
+[2023.03.04-19.22.08:956][ 74]LogUObjectHash: Compacting FUObjectHashTables data took   2.98ms
+[2023.03.04-19.22.08:958][ 74]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Level/MainMenu' took 0.026
+[2023.03.04-19.22.08:958][ 74]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/UI/Menus/BuyEnergyWB] ([2] browsable assets)...
+[2023.03.04-19.22.08:958][ 74]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/Menus/BuyEnergyWB]
+[2023.03.04-19.22.08:963][ 74]LogSavePackage: Moving '../../../../../../UE4/Helloffice 2.0 ver/Helloffice_2_0_ver/Saved/BuyEnergyWB_Auto1D10607184A3F8660C5B070B52BC50172.tmp' to '../../../../../../UE4/Helloffice 2.0 ver/Helloffice_2_0_ver/Saved/Autosaves/Game/UI/Menus/BuyEnergyWB_Auto1.uasset'
+[2023.03.04-19.22.08:963][ 74]LogFileHelpers: Auto-saving content packages took 0.006
+[2023.03.04-19.22.25:097][821]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2023.03.04-19.22.25:097][821]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2023.03.04-19.22.32:120][654]BlueprintLog: New page: Compile BuyEnergyWB
+[2023.03.04-19.22.32:145][654]LogUObjectHash: Compacting FUObjectHashTables data took   2.93ms
+[2023.03.04-19.22.32:719][690]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Menus/BuyEnergyWB" FILE="../../../../../../UE4/Helloffice 2.0 ver/Helloffice_2_0_ver/Content/UI/Menus/BuyEnergyWB.uasset" SILENT=true
+[2023.03.04-19.22.32:724][690]LogSavePackage: Moving '../../../../../../UE4/Helloffice 2.0 ver/Helloffice_2_0_ver/Saved/BuyEnergyWB324C0D4241F9C20D1474E491BA5B1392.tmp' to '../../../../../../UE4/Helloffice 2.0 ver/Helloffice_2_0_ver/Content/UI/Menus/BuyEnergyWB.uasset'
+[2023.03.04-19.22.32:737][690]AssetCheck: New page: Asset Save: BuyEnergyWB
+[2023.03.04-19.22.32:737][690]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/Menus/BuyEnergyWB.BuyEnergyWB
+[2023.03.04-19.24.49:336][248]BlueprintLog: New page: Compile BuyEnergyWB
+[2023.03.04-19.24.49:375][248]LogUObjectHash: Compacting FUObjectHashTables data took   3.05ms
+[2023.03.04-19.24.49:948][281]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Menus/BuyEnergyWB" FILE="../../../../../../UE4/Helloffice 2.0 ver/Helloffice_2_0_ver/Content/UI/Menus/BuyEnergyWB.uasset" SILENT=true
+[2023.03.04-19.24.49:953][281]LogSavePackage: Moving '../../../../../../UE4/Helloffice 2.0 ver/Helloffice_2_0_ver/Saved/BuyEnergyWB9165DD60460818D885754BB7CA1585F5.tmp' to '../../../../../../UE4/Helloffice 2.0 ver/Helloffice_2_0_ver/Content/UI/Menus/BuyEnergyWB.uasset'
+[2023.03.04-19.24.49:964][281]AssetCheck: New page: Asset Save: BuyEnergyWB
+[2023.03.04-19.24.49:964][281]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/Menus/BuyEnergyWB.BuyEnergyWB
+[2023.03.04-19.26.33:876][365]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/ClickerWB/ClickerWB.ClickerWB
+[2023.03.04-19.27.52:592][ 59]BlueprintLog: New page: Compile ClickerWB
+[2023.03.04-19.27.52:625][ 59]LogUObjectHash: Compacting FUObjectHashTables data took   3.49ms
+[2023.03.04-19.27.53:266][100]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/ClickerWB/ClickerWB" FILE="../../../../../../UE4/Helloffice 2.0 ver/Helloffice_2_0_ver/Content/UI/ClickerWB/ClickerWB.uasset" SILENT=true
+[2023.03.04-19.27.53:275][100]LogSavePackage: Moving '../../../../../../UE4/Helloffice 2.0 ver/Helloffice_2_0_ver/Saved/ClickerWB8DF0D6A5482FB7668FC511B8AAE4CFDC.tmp' to '../../../../../../UE4/Helloffice 2.0 ver/Helloffice_2_0_ver/Content/UI/ClickerWB/ClickerWB.uasset'
+[2023.03.04-19.27.53:291][100]AssetCheck: New page: Asset Save: ClickerWB
+[2023.03.04-19.27.53:291][100]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/ClickerWB/ClickerWB.ClickerWB
+[2023.03.04-19.29.11:702][741]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2023.03.04-19.29.11:702][741]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.04-19.29.11:709][741]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2023.03.04-19.29.11:709][741]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.04-19.29.14:444][ 17]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2023.03.04-19.29.14:444][ 17]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.04-19.29.14:450][ 17]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2023.03.04-19.29.14:450][ 17]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.04-19.30.37:248][860]LogUObjectHash: Compacting FUObjectHashTables data took   3.03ms
+[2023.03.04-19.30.42:205][860]LogSlate: Window 'Delete Assets' being destroyed
+[2023.03.04-19.30.42:273][860]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/UI/Menus/BuyEnergyWB.BuyEnergyWB
+[2023.03.04-19.30.44:470][860]LogUObjectHash: Compacting FUObjectHashTables data took   3.57ms
+[2023.03.04-19.30.44:486][860]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2023.03.04-19.30.44:500][860]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2023.03.04-19.30.44:683][860]SourceControl: Error: Updated 1 path from the index
+[2023.03.04-19.30.44:793][860]SourceControl: rm 'Content/UI/Menus/BuyEnergyWB.uasset'
+[2023.03.04-19.30.46:778][ 46]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2023.03.04-19.30.48:157][ 46]LogSlate: Window 'Delete Assets' being destroyed
+[2023.03.04-19.30.48:376][ 46]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2023.03.04-19.30.48:397][ 46]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2023.03.04-19.30.48:411][ 46]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2023.03.04-19.30.48:566][ 46]SourceControl: Error: Updated 0 paths from the index
+[2023.03.04-19.30.48:677][ 46]SourceControl: rm 'Content/UI/Menus/EnergyStruct.uasset'
+[2023.03.04-19.30.53:236][534]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2023.03.04-19.30.54:523][534]LogSlate: Window 'Delete Assets' being destroyed
+[2023.03.04-19.30.54:564][534]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/UI/ClickerWB/ClickerWB.ClickerWB
+[2023.03.04-19.30.54:852][534]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2023.03.04-19.30.54:868][534]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2023.03.04-19.30.54:881][534]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2023.03.04-19.30.55:066][534]SourceControl: Error: Updated 1 path from the index
+[2023.03.04-19.30.55:192][534]SourceControl: rm 'Content/UI/ClickerWB/ClickerWB.uasset'
+[2023.03.04-19.31.07:668][827]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
